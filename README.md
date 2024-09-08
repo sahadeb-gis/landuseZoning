@@ -1,1 +1,2 @@
 # landuseZoning
+This code contains a script for landcover zoning of the Dhaka North City Corporation (DNCC) area in Google Earth Engine (GEE). The purpose of this code was to use the ESRI Global Land Cover dataset for zoning the areas of DNCC. These zones were used to finalize the sampling strategy and random plot location to conduct an urban tree inventory in DNCC. The script was implemented in JavaScript.
